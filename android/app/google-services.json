@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518045572856",
+    "project_id": "signin-cbd44",
+    "storage_bucket": "signin-cbd44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518045572856:android:59c9efb5666b3af45e650d",
+        "android_client_info": {
+          "package_name": "com.digispark.googleSignUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518045572856-c5mk5uepm32atjou0b10dc5srr4o051r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digispark.googleSignUp",
+            "certificate_hash": "582d3bc7d8630765e6ceb99ce1b19857d6131bfc"
+          }
+        },
+        {
+          "client_id": "518045572856-iocuq1c5hcjej1biogt7hq8l492a67rt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digispark.googleSignUp",
+            "certificate_hash": "e15a9f3f19dbf8e47414b37c570270556483bdd4"
+          }
+        },
+        {
+          "client_id": "518045572856-nsem2q32h9fgicd6ef4rbtdvkgmf3s2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNzlj5taHDdFAQW4Zq0FvVBN3bCTJX9EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518045572856-nsem2q32h9fgicd6ef4rbtdvkgmf3s2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
